@@ -1,0 +1,1 @@
+This is a side project I am working on in my free time to try to be able to have an easy recommender system for stocks. 
